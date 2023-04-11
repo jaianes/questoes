@@ -17,7 +17,7 @@ if numero in fibonacci:
 else:
     print(f'O número {numero} não está na sequência de Fibonacci.')
     
-    Explicação: Neste exemplo, iniciamos definindo o número que queremos verificar se está na sequência de Fibonacci como numero = 21. Em seguida, definimos a sequência de Fibonacci inicialmente como [0, 1].
+   #Explicação: Neste exemplo, iniciamos definindo o número que queremos verificar se está na sequência de Fibonacci como numero = 21. Em seguida, definimos a sequência de Fibonacci inicialmente como [0, 1].
 
 Usando um loop while, continuamos a calcular a sequência de Fibonacci até que o último número na lista seja maior ou igual ao número informado. Para cada iteração do loop, calculamos o próximo número na sequência de Fibonacci como a soma dos dois números anteriores e adicionamos o resultado à lista de Fibonacci.
 
